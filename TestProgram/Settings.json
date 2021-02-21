@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Link": "http://localhost:5001/",
+    "StatusCode": "OK",
+    "ExpectAnswer": null
+  },
+  {
+    "Link": "http://localhost:5001/primes/5",
+    "StatusCode": "OK",
+    "ExpectAnswer": null
+  },
+  {
+    "Link": "http://localhost:5001/primes/9",
+    "StatusCode": "BadRequest",
+    "ExpectAnswer": null
+  },
+  {
+    "Link": "http://localhost:5001/primes?from=1&to=50",
+    "StatusCode": "OK",
+    "ExpectAnswer": "2,3,5,7,11,13,17,19,23,29,31,37,41,43,47"
+  },
+  {
+    "Link": "http://localhost:5001/primes?from=12r&to=124gg",
+    "StatusCode": "BadRequest",
+    "ExpectAnswer": null
+  },
+  {
+    "Link": "http://localhost:5001/primes?from=-12&to=0",
+    "StatusCode": "OK",
+    "ExpectAnswer": ""
+  }
+]

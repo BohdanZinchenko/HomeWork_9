@@ -34,7 +34,8 @@ namespace TestProgram
                 catch (Exception e)
                 {
                     Console.WriteLine("Wrong Link");
-                    
+                    return;
+
                 }
 
                 var response = await client.GetAsync(item.Link);

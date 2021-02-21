@@ -116,3 +116,31 @@
 2021-02-22 00:11:28.641 +02:00 [INF] Not founded prime numbers, end with status code 200
 2021-02-22 00:11:28.642 +02:00 [INF] Start to find all primaries in range
 2021-02-22 00:11:28.642 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:26:06.908 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:26:06.930 +02:00 [INF] Shown information about this number
+2021-02-22 00:26:09.166 +02:00 [INF] Start point to show info 
+2021-02-22 00:26:09.174 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:27:09.133 +02:00 [INF] Start point to show info 
+2021-02-22 00:27:09.135 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:27:09.155 +02:00 [INF] Start point to show info 
+2021-02-22 00:27:09.157 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:27:09.165 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:27:09.165 +02:00 [INF] Shown information about this number
+2021-02-22 00:27:09.171 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:27:09.171 +02:00 [INF] Shown information about this number
+2021-02-22 00:27:09.176 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:27:09.176 +02:00 [INF] Shown information about this number
+2021-02-22 00:27:09.178 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:27:09.179 +02:00 [INF] Shown information about this number
+2021-02-22 00:27:09.181 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:27:09.184 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:27:09.187 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:27:09.187 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:27:09.189 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:27:09.189 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:27:09.190 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:27:09.190 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:27:09.192 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:27:09.192 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:27:09.193 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:27:09.193 +02:00 [INF] Not founded prime numbers, end with status code 200
