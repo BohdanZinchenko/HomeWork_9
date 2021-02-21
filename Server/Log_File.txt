@@ -1,0 +1,118 @@
+2021-02-21 23:48:40.519 +02:00 [INF] Start point to show info 
+2021-02-21 23:48:40.599 +02:00 [INF] Showed information about program and developer
+2021-02-21 23:51:56.889 +02:00 [INF] Start point to show info 
+2021-02-21 23:51:56.970 +02:00 [INF] Showed information about program and developer
+2021-02-21 23:52:24.359 +02:00 [INF] Start point to show info 
+2021-02-21 23:52:24.393 +02:00 [INF] Showed information about program and developer
+2021-02-21 23:52:35.635 +02:00 [INF] Start point to show info 
+2021-02-21 23:52:35.663 +02:00 [INF] Showed information about program and developer
+2021-02-21 23:54:06.297 +02:00 [INF] Start point to show info 
+2021-02-21 23:54:06.349 +02:00 [INF] Showed information about program and developer
+2021-02-21 23:57:07.804 +02:00 [INF] Start point to show info 
+2021-02-21 23:57:07.843 +02:00 [INF] Showed information about program and developer
+2021-02-21 23:57:34.274 +02:00 [INF] Start point to show info 
+2021-02-21 23:57:34.306 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:01:02.356 +02:00 [INF] Start point to show info 
+2021-02-22 00:01:02.386 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:03:24.363 +02:00 [INF] Start point to show info 
+2021-02-22 00:03:24.403 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:05:29.711 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:05:29.729 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:06:30.036 +02:00 [INF] Start point to show info 
+2021-02-22 00:06:30.037 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:06:30.068 +02:00 [INF] Start point to show info 
+2021-02-22 00:06:30.068 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:06:30.080 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:06:30.082 +02:00 [INF] Shown information about this number
+2021-02-22 00:06:30.084 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:06:30.084 +02:00 [INF] Shown information about this number
+2021-02-22 00:06:30.089 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:06:30.089 +02:00 [INF] Shown information about this number
+2021-02-22 00:06:30.096 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:06:30.096 +02:00 [INF] Shown information about this number
+2021-02-22 00:06:30.097 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:06:30.097 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:06:30.098 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:06:30.098 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:06:30.100 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:06:30.100 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:06:30.101 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:06:30.102 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:06:30.103 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:06:30.103 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:06:30.104 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:06:30.104 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:07:02.914 +02:00 [INF] Start point to show info 
+2021-02-22 00:07:02.922 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:07:02.937 +02:00 [INF] Start point to show info 
+2021-02-22 00:07:02.939 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:07:02.944 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:02.944 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:02.946 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:02.946 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:02.947 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:02.948 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:02.953 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:02.953 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:02.958 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:02.958 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:07:02.959 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:02.959 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:07:02.960 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:02.960 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:07:02.961 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:02.961 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:07:02.963 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:02.963 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:07:02.964 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:02.965 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:07:47.958 +02:00 [INF] Start point to show info 
+2021-02-22 00:07:47.962 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:07:47.981 +02:00 [INF] Start point to show info 
+2021-02-22 00:07:47.983 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:07:47.987 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:47.987 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:47.991 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:47.991 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:47.996 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:47.996 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:47.997 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:07:47.998 +02:00 [INF] Shown information about this number
+2021-02-22 00:07:47.999 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:47.999 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:07:48.000 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:48.000 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:07:48.003 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:48.004 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:07:48.005 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:48.005 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:07:48.006 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:48.006 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:07:48.007 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:07:48.008 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:11:23.507 +02:00 [INF] Start point to show info 
+2021-02-22 00:11:23.543 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:11:28.583 +02:00 [INF] Start point to show info 
+2021-02-22 00:11:28.585 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:11:28.606 +02:00 [INF] Start point to show info 
+2021-02-22 00:11:28.606 +02:00 [INF] Showed information about program and developer
+2021-02-22 00:11:28.613 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:11:28.617 +02:00 [INF] Shown information about this number
+2021-02-22 00:11:28.621 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:11:28.621 +02:00 [INF] Shown information about this number
+2021-02-22 00:11:28.623 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:11:28.624 +02:00 [INF] Shown information about this number
+2021-02-22 00:11:28.625 +02:00 [INF] Start to detect the number for its primaries
+2021-02-22 00:11:28.626 +02:00 [INF] Shown information about this number
+2021-02-22 00:11:28.631 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:11:28.633 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:11:28.635 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:11:28.636 +02:00 [INF] Founded primes numbers 
+2021-02-22 00:11:28.637 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:11:28.638 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:11:28.639 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:11:28.639 +02:00 [ERR] Cant parse a (From), return status code 400
+2021-02-22 00:11:28.640 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:11:28.641 +02:00 [INF] Not founded prime numbers, end with status code 200
+2021-02-22 00:11:28.642 +02:00 [INF] Start to find all primaries in range
+2021-02-22 00:11:28.642 +02:00 [INF] Not founded prime numbers, end with status code 200
